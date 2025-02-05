@@ -6,6 +6,6 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>pedro.exemplos</groupId>
-	<artifactId>exemplo1</artifactId>
+	<artifactId>maven-quick-start</artifactId>
 	<version>1.0</version>
 </project>
